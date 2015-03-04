@@ -1,3 +1,5 @@
+.idea/
+/src/main/resources/drivers/
 *.iml
 .DS_Store
 target/
