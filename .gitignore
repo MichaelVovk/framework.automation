@@ -1,0 +1,15 @@
+*.iml
+.DS_Store
+target/
+test-output/
+.classpath
+.project
+.settings
+hooks/
+info/
+HEAD
+description
+config
+/bin/
+
+test-logs_IS_UNDEFINED/
