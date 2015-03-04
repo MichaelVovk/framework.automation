@@ -7,6 +7,7 @@ test-output/
 .classpath
 .project
 .settings
+.settings/
 hooks/
 info/
 HEAD
