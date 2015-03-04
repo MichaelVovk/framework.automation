@@ -1,0 +1,12 @@
+<suite name="Chrome GoNitro Notifications Test Suite">
+	<parameter name="testType" value="browser" />
+	<parameter name="browserName" value="chrome" />
+	<parameter name="proxyEnabled" value="false" />
+	<test name="Chrome GoNitro Notifications Test">
+		<classes>
+			 <class name="webtests.gonitro.notifications.SigningNotifications" />
+		</classes>
+
+	</test>
+</suite>
+

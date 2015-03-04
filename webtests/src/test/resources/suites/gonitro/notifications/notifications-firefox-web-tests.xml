@@ -1,0 +1,12 @@
+<suite name="Firefox GoNitro Notifications Test Suite">
+	<parameter name="testType" value="browser" />
+	<parameter name="browserName" value="firefox" />
+	<parameter name="proxyEnabled" value="false" />
+	<test name="Firefox GoNitro Notifications Test">
+		<classes>
+			 <class name="webtests.gonitro.notifications.SigningNotifications" />
+		</classes>
+
+	</test>
+</suite>
+

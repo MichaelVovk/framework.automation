@@ -1,0 +1,12 @@
+<suite name="Chrome GoNitro WorkFlow Test Suite">
+	<parameter name="testType" value="browser" />
+	<parameter name="browserName" value="chrome" />
+	<parameter name="proxyEnabled" value="false" />
+	<test name="Chrome GoNitro WorkFlow Test">
+		<classes>
+			<!-- <class name="webtests.gonitro.signature.SignatureTest" />  --> 
+			 <class name="webtests.gonitro.rejectrequest.WorkflowTest" /> 
+		</classes>
+
+	</test>
+</suite>
